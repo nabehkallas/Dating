@@ -1,7 +1,7 @@
 💘 <b>Cross-Platform Dating Application</b>
 
 A high-performance, full-stack mobile dating experience built with React Native Expo, Laravel, and Firebase.
-<p align="center"> <img src="1.gif" width="22%" alt="Login Screen" /> <img src="2.gif" width="22%" alt="Swipe Feed 1" /> <img src="3.gif" width="22%" alt="Swipe Feed 2" /> <img src="4.gif" width="22%" alt="Profile Settings" /> </p>
+<p align="center"> <img src="1.gif" width="22%" alt="Login Screen" /> <img src="2.gif" width="22%" alt="Swipe Feed 1" /> <img src="3.gif" width="22%" alt="Swipe Feed 2" />  </p>
 <hr>
 📖 <b>About The Project</b>
 <p>
@@ -202,6 +202,9 @@ github for backend commits:<br>
 <a>https://github.com/nabehkallas/Dating-Laravel</a>
 <hr>
 <hr>
+Important!!!!!!
+<p><b>create a .env file and fill the variables just like in env.example file</b></p><hr>
+Eng.Nabeh kallas<hr>
 erDiagram
   
 
@@ -257,4 +260,5 @@ erDiagram
         timestamp created_at
         timestamp expires_at
     }
+    
     
