@@ -203,8 +203,10 @@ github for backend commits:<br>
 <hr>
 <hr>
 Important!!!!!!
-<p><b>create a .env file and fill the variables just like in env.example file</b></p><hr>
+<p><b>create a .env in frontend folder file and fill the variables just like in env.example file</b></p><hr>
+<p>create /storage/firebase_credentials in the backend folder and create .env file like .env.example </p>
 Eng.Nabeh kallas<hr>
+
 erDiagram
   
 
