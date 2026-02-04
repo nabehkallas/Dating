@@ -1,5 +1,6 @@
 💘 <b>Cross-Platform Dating Application</b>
-
+<p>  Frontend (React Native) Source & Commits: https://github.com/nabehkallas/RealEstate-ReactNative</p>
+<p>  Backend (Laravel) Source & Commits: https://github.com/nabehkallas/Dating-Laravel</p>
 A high-performance, full-stack mobile dating experience built with React Native Expo, Laravel, and Firebase.
 <p align="center"> <img src="1.gif" width="22%" alt="Login Screen" /> <img src="2.gif" width="22%" alt="Swipe Feed 1" /> <img src="3.gif" width="22%" alt="Swipe Feed 2" />  </p>
 <hr>
